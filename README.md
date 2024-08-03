@@ -12,7 +12,8 @@ First join The official's bot telegram chanel. Join by [Clicking here](https://t
 
 # Starting the Bot.
 Start the bot by sending the start command to the bot
-![image](https://github.com/user-attachments/assets/8baef43b-af63-42c3-8aed-8c57df70b8fa)
+![image](https://github.com/user-attachments/assets/58a9b522-0d3c-4812-82cc-c41cf7ad5e83)
+
 
 [GET BOT](https://t.me/AviatorProHackApp)
 
